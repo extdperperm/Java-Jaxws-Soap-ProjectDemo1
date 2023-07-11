@@ -22,6 +22,8 @@ Descripción
 
 Servicio SOAP implementado con la dependencia jaxws que trabaja sobre las dependencias jakarta.servlet. Este proyecto implementa la faceta Dynamic web module 5 compatible con Apache TomCat 10 y superiores.
 
+Se implementa autenticación a nivel de la cabecera http.
+
 -----------------------------------------------------------------------------------------------
 Compilación y Ejecución
 -----------------------------------------------------------------------------------------------
