@@ -11,7 +11,7 @@ Requisitos técnicos del desarrollo
 
 - Versión JDK: OpenJdk (v17)
 - IDE: Eclipse 2023-06
-- org.apache.maven.archetypes: maven-archetypes-webapp
+- Arquetipo: org.apache.maven.archetypes: maven-archetypes-webapp
 - Tipo Proyecto: Dynamic web module, v5.0
 - Target runtime: Apache Tomcat, v10.1
 - Dependencia: jaxws-rt, v4.0.1
